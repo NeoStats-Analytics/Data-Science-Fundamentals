@@ -1,5 +1,5 @@
 ## Assignment 01: Credit Card Data Analysis:
-Q1: Consider the Credit card dataset provided. The file Credit Card Data.xlsx has 3 tabs with the following data:
+Q1: Consider the Credit card dataset provided in the data folder. The file Credit Card Data.xlsx has 3 tabs with the following data:
 
 Credit Card customer master data
 - Spend (Transaction) data
