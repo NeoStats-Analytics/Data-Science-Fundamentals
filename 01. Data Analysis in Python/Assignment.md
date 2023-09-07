@@ -26,8 +26,10 @@ Answer the following questions:
 
 Q2: The demand and usage of the internet is growing across the globe and public wifi is becoming a new normal as we move forward. 
 Wifi providers want to optimize the cost while providing the free and paid wifi.
+
 The use case here refers to public WiFi hotspots in New York City. Please refer to the dataset – Wifi Data.xlsx. 
 The information comprises of records for every public WiFi hotspot (ones provided by or in partnership with the city) in New York City.
+
 Using Python’s Pandas and Seaborn library to answer following business questions:
 Get the data provided, check frequency distribution of the features, drop irrelevant and redundant features if any and state your inferences?
 
