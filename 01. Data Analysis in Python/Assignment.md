@@ -12,13 +12,13 @@ Make the following substitution:
 - Age of credit card customer can't be less than 18. In case age is less than 18, replace it with mean of age. 3. 
 
 Answer the following questions:
-  a) How many unique customers are there? 
-  b) How many spend categories are there? 
-  c) Which category has the highest average spend?
-  d) What is the average monthly spent by product categories?
-  e) Which customers are reaching 90% or more of their spending limit?
-  f) Which city has the maximum number of spenders, each month? Is there a need to run campaigns in specific cities?
-  g) Which age group spends the most?
+- How many unique customers are there?
+- How many spend categories are there?
+- Which category has the highest average spend?
+- What is the average monthly spent by product categories?
+- Which customers are reaching 90% or more of their spending limit?
+- Which city has the maximum number of spenders, each month? Is there a need to run campaigns in specific cities?
+- Which age group spends the most?
 
 ##
 
@@ -32,8 +32,8 @@ Using Python’s Pandas and Seaborn library to answer following business questio
 Get the data provided, check frequency distribution of the features, drop irrelevant and redundant features if any and state your inferences?
 
 Using appropriate data visualization answer the following:
-  a) Plot the providers vs number of all wi-fi hotspots they have in operation? Who has the highest installations?
-  b) Plot providers vs number of free wifi hotspots.
-  c) Are there any provider(s) who do not provide free wifi?
-  d) Which Location type (Location_T) are most common and least common?
-  e) How many free “indoor” and “outdoor” hotspots are there? Which companies have the highest number of Outdoor Free installations.
+- Plot the providers vs number of all wi-fi hotspots they have in operation? Who has the highest installations?
+- Plot providers vs number of free wifi hotspots.
+- Are there any provider(s) who do not provide free wifi?
+- Which Location type (Location_T) are most common and least common?
+- How many free “indoor” and “outdoor” hotspots are there? Which companies have the highest number of Outdoor Free installations.
