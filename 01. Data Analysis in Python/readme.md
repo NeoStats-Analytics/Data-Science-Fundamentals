@@ -9,3 +9,9 @@ Covers the following:
    - Classes & Objects
    - File Input and Output
    - Handling Errors and Exceptions
+- Data Analysis Packages
+   - NumPy
+   - Pandas
+   - String & Text
+- Data Wrangling
+   - Advanced Numpy
