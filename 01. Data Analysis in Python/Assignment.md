@@ -20,7 +20,7 @@ e) Which customers are reaching 90% or more of their spending limit?
 f) Which city has the maximum number of spenders, each month? Is there a need to run campaigns in specific cities?
 g) Which age group spends the most?
 
-## 
+##
 
 ## Assignment 02: Wifi Data Analysis:
 
