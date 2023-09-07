@@ -1,6 +1,5 @@
-Python for Data Analysis
-
-Covers the following:
+This folder contains code and assignment related to Python for Data Analysis
+It specifically covers the following:
 - Python Fundamentals
    - Data Types
    - Variables & Expressions
