@@ -15,3 +15,15 @@ Covers the following:
    - String & Text
 - Data Wrangling
    - Advanced Numpy
+- Time Series Analysis
+   - Date / Time / Time Series
+   - Handling time in Pandas
+- Unstructured Data
+   - Processing JSON/Xls
+   - Web Scraping
+- Relational Database
+- Data Pipeline
+- Data Visualization in Python
+- Machine Learning in Python
+
+  
