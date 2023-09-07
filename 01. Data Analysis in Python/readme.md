@@ -5,3 +5,7 @@ Covers the following:
    - Data Types
    - Variables & Expressions
    - Language Basics
+   - Function & Modules
+   - Classes & Objects
+   - File Input and Output
+   - Handling Errors and Exceptions
