@@ -12,12 +12,18 @@ Make the following substitution:
 - Age of credit card customer can't be less than 18. In case age is less than 18, replace it with mean of age. 3. 
 
 Answer the following questions:
-a) How many unique customers are there?
-b) How many spend categories are there?
+a) How many unique customers are there? 
+
+b) How many spend categories are there? 
+
 c) Which category has the highest average spend?
+
 d) What is the average monthly spent by product categories?
+
 e) Which customers are reaching 90% or more of their spending limit?
+
 f) Which city has the maximum number of spenders, each month? Is there a need to run campaigns in specific cities?
+
 g) Which age group spends the most?
 
 ##
